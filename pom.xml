@@ -91,19 +91,19 @@
 			<scope>provided</scope>
 		</dependency>
 		
-	</dependencies>
-	
+	</dependencies> 
+
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-release/</url>
+	      <url>http://34.234.91.25:8081/repository/ebay-bts-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.192.81.238:8888/mylandmarktech/repository/boa-snapshot/</url>
+	      <url>http://34.234.91.25:8081/repository/ebay-bts-snaphot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
