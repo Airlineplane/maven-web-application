@@ -12,7 +12,7 @@
 <h1 align="center">Cloudnet Technologies</h1>
 <h2 align="center"> Welcome to Cloudnet Technology. 
 	Cloudnet Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
-	We offer interview preparations and job assitance. Class25 is blessed
+	We offer interview preparations and job assitance. Class25 is blessed, thank you Jesus
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
