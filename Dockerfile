@@ -3,4 +3,5 @@ FROM tomcat:8.0.20-jre8
 # God is faithful, thank you God. 
 # I praise you God
 COPY target/maven-web-application*.war /usr/local/tomcat/webapps/maven-web-application.war
-# I am greatful to the lord
+# I am greatful to the lord 
+# i trust in the lord
